@@ -17,13 +17,13 @@ This is a solution to the [Huddle landing page with a single introductory sectio
 
 ### Screenshot
 
-![Preview desktop](./design/Screenshot%20desktop%20design.png)
-![Preview mobile](./design/Screenshot%20mobile%20design.png)
+![Preview desktop](./Screeshots/Screenshot%20desktop.png)
+![Preview mobile](./Screeshots/Screenshot%20%20mobile.png)
 
 ### Links
 
 - Solution URL: [Repo](https://github.com/Florencia-Barrios/FrontMentor-huddle-landing-page-with-single-introductory-section-master)
-- Live Site URL: [GitHubPage]()
+- Live Site URL: [GitHubPage](https://florencia-barrios.github.io/FrontMentor-huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
