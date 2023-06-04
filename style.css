@@ -176,7 +176,7 @@ footer {
 
 @media (min-width: 1150px) {
 html {
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(./images/bg-desktop.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -184,14 +184,6 @@ html {
   .imagen-mobile {
     display: none;
   }
-
-  /* body { */
-    /* background-image: url(/images/bg-desktop.svg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%; */
-    /* width: auto;
-    height: 100%; 
-  }*/
 
   main {
     display: flex;
